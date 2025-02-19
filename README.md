@@ -1,6 +1,6 @@
 # Online Library WebApp Repository
 
-Welcome to the **Kavetec Online Library WebApp** repository! This project is designed to help users appreciate automation by first performing a complete manual deployment workflow before implementing automation with Jenkins.
+Welcome to the **Online Library WebApp** repository! This project is designed to help users appreciate automation by first performing a complete manual deployment workflow before implementing automation with Jenkins.
 
 ## 📌 Repository Overview
 
@@ -18,7 +18,7 @@ Before proceeding, ensure you have:
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/Kavetec/online-library-webapp.git
+ git clone https://github.com/DivineTheAnalyst/online-library-webapp.git
  cd online-library-webapp
 ```
 
